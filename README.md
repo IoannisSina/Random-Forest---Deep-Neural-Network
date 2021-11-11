@@ -1,4 +1,4 @@
-# Classification Random Forest & Deep Neural Network
+# Classification - Random Forest & Deep Neural Network
 
 This is a project for the Data Mining and Machine Learning course, [CEID](https://www.ceid.upatras.gr/en) University of Patras.
 
@@ -6,7 +6,7 @@ This is a project for the Data Mining and Machine Learning course, [CEID](https:
 
 Our goal is to identify patients who are prone to stroke.
 
-The [Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) contains the following patient infomrmation:
+The [Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) contains the following patient information:
 
 - id: unique identifier
 - gender: "Male", "Female" or "Other"
